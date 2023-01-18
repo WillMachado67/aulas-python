@@ -1,0 +1,5 @@
+FROM_EMAIL=""
+EMAIL_PASSWORD=""
+
+SMTP_SEVER="smtp.gmail.com"
+SMTP_PORT=587
